@@ -1,0 +1,10 @@
+patata https://dle.rae.es/patata?m=form
+guacamole https://dle.rae.es/guacamole?m=form
+alcachofa https://dle.rae.es/alcachofa?m=form
+pudin https://dle.rae.es/pudin?m=form
+guanabana https://dle.rae.es/guan%C3%A1bana
+callejera https://dle.rae.es/callejero?m=form
+hola https://dle.rae.es/hola?m=form
+maria https://dle.rae.es/mar%C3%ADa
+como https://dle.rae.es/como?m=form
+estas https://dle.rae.es/estas?m=form
