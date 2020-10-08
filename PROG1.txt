@@ -8,3 +8,15 @@ hola https://dle.rae.es/hola?m=form
 maria https://dle.rae.es/mar%C3%ADa
 como https://dle.rae.es/como?m=form
 estas https://dle.rae.es/estas?m=form
+
+Palabras de mgilge00 (maria-100):
+1.Pulsera - https://dle.rae.es/pulsera
+2.Pintura - https://dle.rae.es/pintura?m=form
+3.Alumno/a - https://dle.rae.es/alumno?m=form
+4.Ingeniería - https://dle.rae.es/ingenier%C3%ADa?m=form
+5.Baloncesto - https://dle.rae.es/baloncesto?m=form
+6.Libro - https://dle.rae.es/libro?m=form
+7.Musical - https://dle.rae.es/musical?m=form
+8.Bailar - https://dle.rae.es/bailar?m=form
+9.Cojín - https://dle.rae.es/coj%C3%ADn?m=form
+10.Hermano/a - https://dle.rae.es/hermano?m=form
